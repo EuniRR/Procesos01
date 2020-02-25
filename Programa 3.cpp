@@ -20,7 +20,7 @@ int main(){
 	string cadena;
 	int opc;
 	do{
-		cout<<"--------------MENU DE OPCIONES------------- "<<endl<<endl;
+		cout<<"--------------MENU DE OPCIONES------------- --------------------------------------------------------"<<endl<<endl;
 	cout<<"\n1. Dice cuantas vocales tiene tu frase"<<endl;
 	cout<<"2. Invertir la frase"<<endl;
 	cout<<"3. Contar las mayusculas"<<endl;
